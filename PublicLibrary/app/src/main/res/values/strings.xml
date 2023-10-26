@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Public Library</string>
+    <string name="open">Open</string>
+    <string name="close" >Close</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_user__ui">User_UI</string>
+    <string-array name="question1">
+        <item> Choose A Question 1</item>
+        <item> What was the name of your first pet?</item>
+        <item> What is the name of your favorite movie? </item>
+        <item> What is your favorite sport? </item>
+
+    </string-array>
+    <string-array name="question2">
+        <item> Choose A Question 2</item>
+        <item> What is your favorite sport team ?</item>
+        <item> What is the name of your best friend ? </item>
+        <item> What is your favorite car brand? </item>
+
+    </string-array>
+
+    <string-array name="rack">
+        <item> R-1</item>
+        <item> R-2</item>
+        <item> R-3</item>
+        <item> R-4</item>
+        <item> R-5</item>
+        <item> R-6</item>
+        <item> R-7</item>
+        <item> R-8</item>
+        <item> R-9</item>
+        <item> R-10</item>
+        <item> R-11</item>
+        <item> R-12</item>
+        <item> R-13</item>
+        <item> R-14</item>
+        <item> R-15</item>
+        <item> R-16</item>
+        <item> R-17</item>
+        <item> R-18</item>
+        <item> R-19</item>
+        <item> R-20</item>
+        <item> R-21</item>
+        <item> R-22</item>
+        <item> R-23</item>
+        <item> R-24</item>
+        <item> R-25</item>
+        <item> R-26</item>
+        <item> R-27</item>
+        <item> R-28</item>
+        <item> R-29</item>
+        <item> R-30</item>
+        <item> R-31</item>
+        <item> R-32</item>
+        <item> R-33</item>
+        <item> R-34</item>
+        <item> R-35</item>
+        <item> R-35</item>
+        <item> R-37</item>
+        <item> R-38</item>
+        <item> R-39</item>
+        <item> R-40</item>
+    </string-array>
+    <string-array name="shelf">
+        <item> S-1</item>
+        <item> S-2</item>
+        <item> S-3</item>
+        <item> S-4</item>
+        <item> S-5</item>
+        <item> S-6</item>
+        <item> S-7</item>
+        <item> S-8</item>
+        <item> S-9</item>
+        <item> S-10</item>
+        <item> S-11</item>
+        <item> S-12</item>
+        <item> S-13</item>
+        <item> S-14</item>
+        <item> S-15</item>
+        <item> S-16</item>
+        <item> S-17</item>
+        <item> S-18</item>
+        <item> s-19</item>
+        <item> S-20</item>
+        <item> S-21</item>
+        <item> S-22</item>
+        <item> S-23</item>
+        <item> S-24</item>
+        <item> S-25</item>
+        <item> S-26</item>
+
+    </string-array>
+
+    <string-array name="Location">
+        <item> R-1 / S-1 </item>
+        <item> R-1 / S-2 </item>
+        <item> R-1 / S-3 </item>
+        <item> R-1 / S-4 </item>
+        <item> R-2 / S-1 </item>
+        <item> R-2 / S-2 </item>
+    </string-array>
+
+    <string-array name="Category">
+        <item> Programming </item>
+        <item> Business </item>
+        <item> Biomedical </item>
+        <item> History </item>
+    </string-array>
+
+
+    <string name="title_activity_tab">tab</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_admin__ui">Admin_UI</string>
+</resources>
